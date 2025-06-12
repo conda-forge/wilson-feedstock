@@ -70,4 +70,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - DavidMStraub
+    - peterstangl
     - matthewfeickert
